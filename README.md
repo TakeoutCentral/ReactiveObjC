@@ -1,6 +1,6 @@
 # ReactiveObjC
-_NOTE: This is Takeout Central's fork in order to remove the requirement on
-a users' permission for their photos. 
+_TOC NOTE: This is Takeout Central's fork in order to remove the requirement on
+a users' permission for their photos._
 
 _NOTE: This is legacy introduction to the Objective-C ReactiveCocoa, which is
 now known as ReactiveObjC. For the updated version that uses Swift, please see
